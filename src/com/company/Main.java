@@ -1,8 +1,10 @@
 package com.company;
 
+import edu.princeton.cs.algs4.StdIn;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	   StdIn.readInt();
     }
 }
